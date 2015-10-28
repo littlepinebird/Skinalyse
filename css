@@ -1,0 +1,90 @@
+h1 {
+    color: white;
+    font-family:'Poiret One';
+    padding: 30px 5px 0px 0px;
+    text-align:center;
+}
+
+h3 {
+text-align:center;
+}
+
+#learninglaunch {
+text-align:center;
+}
+
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 10px;
+    }
+    input[type="submit"]
+      background:red;
+      color:white;
+    }
+* {
+text-align:center
+}
+
+#analysisdescription {
+text-align:center;
+}
+
+#heading {
+background-color:#49ab81;
+}
+
+#colorstrip{
+  width: 100%;
+  position: fluid;
+  height: 200px;
+  border-color: #398564;
+  background-color: #49ab81;
+}
+
+#twitter {
+position: absolute;
+bottom:0pt;
+}
+
+#cssmenu {
+  background: #49ab81;
+  list-style: none;
+  margin: 0;
+  padding: 0px 0px 0px 0px;
+}
+
+#cssmenu li {
+  font: 90% 'Poiret One', cursive;
+  margin: 0px;
+  padding: 0;
+  list-style: none;
+  text-align:center;
+}
+
+#cssmenu a {
+  background: #49ab81;
+  border-bottom: 1px solid #419873;
+  color: white;
+  display: block;
+  margin: 5;
+  padding: 0px 0px 0px 0px;
+  text-decoration: none;
+}
+
+#cssmenu a:hover {
+  color: #317256;
+}
+
+#cssmenu a:active {
+ color: #317256:
+
+#whatdowedo {
+padding: 30px 0px 0px 0px;
+background-color:blue
+}
+
+#Timeline {
+background-color:#80CBC4;
+outline: 2px solid black;
+}

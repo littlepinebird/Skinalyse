@@ -88,3 +88,44 @@ background-color:blue
 background-color:#80CBC4;
 outline: 2px solid black;
 }
+
+#social {
+    float: center;
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    margin: 0;
+    list-style-type: none;
+}
+
+#social a {
+    float: center;
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+    padding: 5px 50px 5px 50px
+}
+
+#social a:hover{
+color: #52bf90;
+}
+
+li {
+    display: inline;
+}
+
+.facebook {
+font-family: arial;
+font-weight: bold;
+color: #3b5998;
+font-size: 50px;
+}
+
+.twitter {
+font-family: helvetica;
+font-weight: bold;
+color: #55ACEE;
+border-color: #55ACEE;
+font-size: 50px;
+}
+
